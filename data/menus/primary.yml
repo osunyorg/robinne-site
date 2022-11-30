@@ -3,4 +3,8 @@
   target: "/territoires-imaginaires/"
   kind: page
   children: []
+- title: cartographies utopiques
+  target: "/territoires-imaginaires/cartographies-utopiques/"
+  kind: page
+  children: []
 
