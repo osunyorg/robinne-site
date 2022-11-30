@@ -1,10 +1,10 @@
 ---
-- title: cartographies utopiques
+- title: territoires imaginaires
   target: "/territoires-imaginaires/"
   kind: page
-  children: []
-- title: cartographies utopiques
-  target: "/territoires-imaginaires/cartographies-utopiques/"
-  kind: page
-  children: []
+  children:
+  - title: cartographies utopiques
+    target: "/territoires-imaginaires/cartographies-utopiques/"
+    kind: page
+    children: []
 
