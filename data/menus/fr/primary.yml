@@ -9,4 +9,6 @@ items:
     target: "/territoires-imaginaires/cartographies-utopiques/"
     kind: page
     children: []
+    file: content/fr/pages/territoires-imaginaires/cartographies-utopiques/_index.html
+  file: content/fr/pages/territoires-imaginaires/_index.html
 
