@@ -4,10 +4,12 @@ items:
 - title: territoires imaginaires
   target: "/territoires-imaginaires/"
   kind: page
+  new_tab: false
   children:
   - title: cartographies utopiques
     target: "/territoires-imaginaires/cartographies-utopiques/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/territoires-imaginaires/cartographies-utopiques"
     file: content/fr/pages/territoires-imaginaires/cartographies-utopiques/_index.html
