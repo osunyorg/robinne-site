@@ -2,6 +2,11 @@
 
 baseURL: https://robinne-site.netlify.app
 
+## OSUNY
+osuny:
+  website:
+    id: e96371b5-adc0-460e-84c6-5db91cef6dc9
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
